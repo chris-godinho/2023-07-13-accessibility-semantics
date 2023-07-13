@@ -2,22 +2,21 @@
 
 ## Description
 
-This is a page for a fictional company called Horiseon. [EXPLAIN THE ASSIGNMENT AND WHAT HAD TO BE DONE]
+This is a page for a fictional company called **Horiseon**. The goal of this project was to refactor the code so as to adhere to accessibility standards, as well as semantics and other general cleanup actions.
 
-[ADD SCREENSHOT FROM ASSETS FOLDER]
+![A render of the finished page](/assets/images/site-screencap.jpg)
 
 ## Changes
 
-- Semantics rules have been applied;
-- Code has been cleaned up;
-- 
-- 
-- 
-- 
+   - Grouped and reordered classes/elements in CSS file to avoid repetition;
+   - Added comments to CSS file;
+   - Added descriptions to image tags in HTML file;
+   - Semantics rules have been applied to both CSS and HTML files;
+   - General cleanup actions to both CSS and HTML files.
 
 ## Installation
 
-No installation is necessary for this application. A live page can be accessed at [LINK].
+No installation is necessary for this application. A live page can be accessed at <LINK>.
 
 ## How can I Contribute?
 
@@ -29,4 +28,4 @@ This application was created by the University of Toronto's School of Continuing
 
 ## License
 
-This project is licensed under the MIT License (see LICENSE.md file for details).
+This project is licensed under the [MIT](/LICENSE) License.
