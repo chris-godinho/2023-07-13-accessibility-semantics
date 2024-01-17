@@ -16,7 +16,7 @@ This is a page for a fictional company called **Horiseon**. The goal of this pro
 
 ## Installation
 
-No installation is necessary for this application. A live page can be accessed at <https://kristbg.github.io/2023-07-13-accessibility-semantics/>.
+No installation is necessary for this application. A live page can be accessed at <https://chris-godinho.github.io/2023-07-13-accessibility-semantics/>.
 
 ## How can I Contribute?
 
